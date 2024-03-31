@@ -27,7 +27,7 @@
     margin: 10px;
     color: #fff;
     border-radius: 10px;
-    box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1), 5px 5px 15px rgba(83, 82, 86, 0.3);
+    box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.06), 5px 5px 15px rgba(83, 82, 86, 0.4);
     cursor: pointer;
 }
 form .display{
